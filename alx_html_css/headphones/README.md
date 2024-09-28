@@ -1,3 +1,2 @@
-headphones project -css advanced
-#project description
+Headphones Website - CSS Advanced
 
